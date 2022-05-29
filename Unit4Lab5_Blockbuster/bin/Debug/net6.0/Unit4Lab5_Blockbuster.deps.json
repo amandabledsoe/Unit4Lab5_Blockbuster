@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unit4Lab5_Blockbuster/1.0.0": {
+        "runtime": {
+          "Unit4Lab5_Blockbuster.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit4Lab5_Blockbuster/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

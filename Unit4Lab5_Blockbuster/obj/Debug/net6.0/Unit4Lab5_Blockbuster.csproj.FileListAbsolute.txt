@@ -1,0 +1,15 @@
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\bin\Debug\net6.0\Unit4Lab5_Blockbuster.exe
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\bin\Debug\net6.0\Unit4Lab5_Blockbuster.deps.json
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\bin\Debug\net6.0\Unit4Lab5_Blockbuster.runtimeconfig.json
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\bin\Debug\net6.0\Unit4Lab5_Blockbuster.dll
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\bin\Debug\net6.0\Unit4Lab5_Blockbuster.pdb
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\Unit4Lab5_Blockbuster.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\Unit4Lab5_Blockbuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\Unit4Lab5_Blockbuster.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\Unit4Lab5_Blockbuster.AssemblyInfo.cs
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\Unit4Lab5_Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\Unit4Lab5_Blockbuster.dll
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\refint\Unit4Lab5_Blockbuster.dll
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\Unit4Lab5_Blockbuster.pdb
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\Unit4Lab5_Blockbuster.genruntimeconfig.cache
+C:\Users\xando\source\repos\Unit4Lab5_Blockbuster\Unit4Lab5_Blockbuster\obj\Debug\net6.0\ref\Unit4Lab5_Blockbuster.dll
